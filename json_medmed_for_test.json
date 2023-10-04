@@ -1,0 +1,1 @@
+{"id":1,"approved_event_types":["ORDER_CREATE_WEBER","ORDER_CANCEL","ORDER_STATUS_WEBER","ORDER_TRANS_LIS","ORDER_COMPLETE"],"event_fields":["ID","OrderNumber","Context","EventType","Description","Episode","EventDateTime","Extra1"],"lpu_list":[{"id":2,"lpu_code":"1112","lpu_name":"Name of 1112"}],"channel_name":"Medmed","order_numbers":"1111256256"}
